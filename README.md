@@ -18,3 +18,6 @@ All original data is publicly available and described in the paper.
 Runtime is approximately 12 hours.
 
 causalEffectsModelDriver11m.m relies on GenStats_QQ_plot_withCI.m, histmean_dh.m, causalEffectsModelCost_fourier.m, mnpdfln.m, my_sigmoid.m, my_sigmoid_positive.m, my_sigmoid_positive_fancy.m;
+
+The basic description of the code's functionality is provided here:
+https://www.biorxiv.org/content/10.1101/133132v7
